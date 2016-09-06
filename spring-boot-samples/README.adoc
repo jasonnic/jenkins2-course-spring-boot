@@ -20,6 +20,7 @@ The following sample applications are provided:
 | link:spring-boot-sample-actuator-ui[spring-boot-sample-actuator-ui]
 | Web UI example with production-ready features
 
+
 | link:spring-boot-sample-amqp[spring-boot-sample-amqp]
 | Message-oriented application using AMQP and RabbitMQ
 
