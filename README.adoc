@@ -21,6 +21,7 @@ diverge from the defaults
 
 
 
+
 == Installation and Getting Started
 The {docs}/htmlsingle/[reference documentation] includes detailed
 {docs}/htmlsingle/#getting-started-installing-spring-boot[installation instructions]
